@@ -1,0 +1,5 @@
+[
+  {"name":"Malware triage","signal":"critical malware detection","actions":["review alerts and owner","create incident","request approval before quarantine","verify device status after approved quarantine"],"caution":"execution blocked is not proof of successful compromise"},
+  {"name":"Authentication anomaly","signal":"multiple failed logins","actions":["correlate endpoint alerts","check device state","document impact and escalate when warranted"],"caution":"do not infer successful access from failures"},
+  {"name":"Service misconfiguration","signal":"unauthorized exposed port","actions":["check configuration evidence","open remediation ticket","notify owner or operations"],"caution":"avoid quarantine without corroborating risk"}
+]

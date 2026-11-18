@@ -1,0 +1,6 @@
+employee_id,name,email,team
+EMP-001,Alex Morgan,alex.morgan@example.invalid,HR
+EMP-002,Jamie Patel,jamie.patel@example.invalid,Marketing
+EMP-003,Taylor Chen,taylor.chen@example.invalid,Infrastructure
+EMP-004,Jordan Lee,jordan.lee@example.invalid,Finance
+EMP-005,Sam Rivera,sam.rivera@example.invalid,Engineering
